@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Borja, a Data Scientist based in 📍 A Coruña, Spain.
+
+- AI 🤖 and statistics 📊 enthusiast.
+- Favorite languages: Python & R.
+- [Data Science and Engineering](https://estudos.udc.es/es/study/detail/614g02v01) graduate at [UDC](https://udc.es/).
+- Pursuing my master's studies 🚀 in [Statistical Techniques](http://eio.usc.es/pub/mte/index.php/es/inicio-btn-es) at [UDC](https://udc.es/).
+
 <!--
 **borjasoutoprego/borjasoutoprego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
